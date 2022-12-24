@@ -5,12 +5,13 @@ fn main() {
 	let t:f64 = 5.0;
 
 
-	let a = p * (1.0 + (r/100.0)) * t;
+	let b = (1.0 + (r/100.0));
+	let a = f32::powf(b, t);
 	println!("The Amount is {}", a );
 
 	// time for compound interest
-	let ci = a - p;
-	println!("The Amount for the Compound Interest is {}", ci ); 
+	let ci = a
+	println!("The Amount for the Compound Interest is {}", a ); 
 
 
 }
