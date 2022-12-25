@@ -1,0 +1,11 @@
+PAU uses a Student Management Information System (PAU-SMIS) to manage student-related data.
+ This system provides facilities for recording and maintaining personal details of students, maintaining marks scored in assessments and computing
+ results of students, keeping track of student attendance, managing many other student-related data. The data is shown as follows
+    
+Student name   |    Matric Number   |    Deparment    |     Level
+_____________________________________________________________
+Oluchi Mordi   |  ACC10211111       |  Accounting          |  300
+Adams Aliyu    |  ECO10110101       |  Economics           |  100
+Shania Bolade  |  CSC10328828       |  Computer            |  200
+Adekunle Gold  |  EEE11020202       |  Electrical          |  200
+Blannca Edemoh  |  MEE10202001       |  Mechanical          |  100
