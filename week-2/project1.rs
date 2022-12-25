@@ -10,7 +10,7 @@ fn main() {
 	println!("The Amount is {}", a );
 
 	// time for compound interest
-	let ci = a
+	let ci = a;
 	println!("The Amount for the Compound Interest is {}", a ); 
 
 
